@@ -1,0 +1,9 @@
+{
+  "realm": "wmaSSO",
+  "auth-server-url": "http://localhost:8082/auth",
+  "ssl-required": "external",
+  "resource": "demo-ui",
+  "public-client": true,
+  "token-store": "cookie",
+  "principal-attribute": "preferred_username"
+}

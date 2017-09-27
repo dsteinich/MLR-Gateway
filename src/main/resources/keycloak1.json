@@ -1,0 +1,10 @@
+{
+  "realm": "wmaSSO",
+  "realm-public-key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAl36tMz4Ft7dQ3uK+2GqXds2HkqNplUaO1jqPq74wZ1Qkme0CECQpWN84bpVLbIlWoHufR01Ylig9ctgOwV2zOfCQ/s6sX3jgZd/cLPMTrzNfX0Wf+sX1LIhP+lTXhCHp6eZN9lFSiaOyPlT/lCjYGKujSRguSflfEIVMZUAMgBzhdJntBFK/9owjyHHIe1ZFJfsTak1XA1PGcdz7AvlYKhv+QCWn1ynvrJ5eXvqWEr/Z6S9tI7V1zSCphV3B8tZgsnv0+Y6S1QmS3r2Phum8B5dh0O2naxS6f7rFN6r1NUKQ0YktDIAbUPV2Fm3h8Yf3DqrtZRc9jMFVO3zcEhnfsQIDAQAB",
+  "auth-server-url": "http://localhost:8082/auth",
+  "ssl-required": "external",
+  "resource": "demo-rest",
+  "bearer-only": true,
+  "credentials":
+    {"secret": "86561d88-e6ea-45d8-8562-09632e307c54"}
+}
